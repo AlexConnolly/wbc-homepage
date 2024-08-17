@@ -2,7 +2,7 @@
   "name": "wbc-homepage",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://alexconnolly.github.io/wbc-homepage",
+  "homepage": "https://alexconnolly.github.io/",
   "dependencies": {
     "@klarr-agency/circum-icons": "^1.1.39",
     "@testing-library/jest-dom": "^5.17.0",
