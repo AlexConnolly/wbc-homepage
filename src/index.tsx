@@ -1,7 +1,12 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
+import { ContactComponent } from './components/contact.component';
+import { CostComponent } from './components/cost.component';
+import { FooterComponent } from './components/footer.component';
+import { HeaderComponent } from './components/header.component';
+import { HeroComponent } from './components/hero.component';
+import { ServicesComponent } from './components/services.component';
 import './index.css';
-import App from './App';
 import reportWebVitals from './reportWebVitals';
 
 const root = ReactDOM.createRoot(
@@ -9,7 +14,12 @@ const root = ReactDOM.createRoot(
 );
 root.render(
   <React.StrictMode>
-    <App />
+    <HeaderComponent></HeaderComponent>
+    <HeroComponent></HeroComponent>
+    <ServicesComponent></ServicesComponent>
+    <CostComponent></CostComponent>
+    <ContactComponent></ContactComponent>
+    <FooterComponent></FooterComponent>
   </React.StrictMode>
 );
 
