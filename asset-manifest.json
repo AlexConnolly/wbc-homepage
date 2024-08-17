@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/wbc-homepage/static/css/main.d69968c2.css",
+    "main.js": "/wbc-homepage/static/js/main.e661419a.js",
+    "static/js/453.736deed5.chunk.js": "/wbc-homepage/static/js/453.736deed5.chunk.js",
+    "index.html": "/wbc-homepage/index.html",
+    "main.d69968c2.css.map": "/wbc-homepage/static/css/main.d69968c2.css.map",
+    "main.e661419a.js.map": "/wbc-homepage/static/js/main.e661419a.js.map",
+    "453.736deed5.chunk.js.map": "/wbc-homepage/static/js/453.736deed5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d69968c2.css",
+    "static/js/main.e661419a.js"
+  ]
+}
